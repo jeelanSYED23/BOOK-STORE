@@ -16,4 +16,3 @@
 ![download](https://user-images.githubusercontent.com/84025839/120011231-454ede00-c008-11eb-9582-148fa653da40.jpg)
 ![doctor](https://user-images.githubusercontent.com/84025839/120011238-45e77480-c008-11eb-9058-5bc7af9c0e97.png)
 ![about](https://user-images.githubusercontent.com/84025839/120011245-47b13800-c008-11eb-8319-525a8c7f0e49.png)
-
